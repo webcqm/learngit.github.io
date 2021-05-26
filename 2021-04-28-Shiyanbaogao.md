@@ -8,10 +8,11 @@
 ### 3.版本控制
 ![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/版本控制.png)
 ### 4.版本回退
-![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/版本回退.png)
+![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/版本回退1.png)
+![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/版本回退2.png)
+![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/版本回退3.png)
 ### 5.工作区和暂缓区
-![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/工作区.png)
-![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/index暂缓区.png)
+![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/工作区与暂缓区.png)
 ### 6.管理修改
 ![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/管理修改.png)
 ### 7.撤销修改
@@ -19,7 +20,7 @@
 ### 8.删除文件
 ![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/删除文件.png)
 ### 9.远程仓库
-![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/远程仓库.png)
+![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/远程仓库1.png)
 ### 10.添加到远程仓库
 ![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/添加远程仓库.png)
 ## 二.选做部分
