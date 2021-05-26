@@ -1,5 +1,5 @@
 # WEB应用软件开发实训 - 第3次作业 - Git使用
->learngit 项目网址为：
+>learngit 项目网址为：https://github.com/webcqm/learngit.github.io
 ## 一.必做部分
 ### 1.安装Git
 ![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/安装git.png)
@@ -22,7 +22,8 @@
 ### 9.远程仓库
 ![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/远程仓库1.png)
 ### 10.添加到远程仓库
-![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/添加远程仓库.png)
+![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/添加远程仓库1.png)
+![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/添加远程仓库2.png)
 ## 二.选做部分
 ### （一） 分支管理
 #### 1.创建与合并分支
@@ -52,7 +53,8 @@
 ### （三）.使用Gitee
 ![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/使用Gitee.png)
 ### （四）自定义Git相关
-
+![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/自定义git相关.png)
 ## 三. 实验过程
-
+在子系统Ubuntu中跟随讲义，完成讲义中learngit每一步的操作，做完提交到github上，并用Markdown或html编写实验报告，作为一篇帖子发布在你的网站上。
 ## 四.总结 
+通过本次实验，学会了github的基本操作。
