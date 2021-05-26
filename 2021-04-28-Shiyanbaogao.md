@@ -1,5 +1,5 @@
 # WEB应用软件开发实训 - 第3次作业 - Git使用
->learngit 项目网址为：https://github.com/webcqm/learngit.github.io
+learngit 项目网址为：https://github.com/webcqm/learngit.github.io
 ## 一.必做部分
 ### 1.安装Git
 ![RUNOOB 图标](https://webcqm.github.io/wsq.github.io/安装git.png)
