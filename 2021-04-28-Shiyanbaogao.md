@@ -57,4 +57,4 @@ learngit 项目网址为：https://github.com/webcqm/learngit.github.io
 ## 三. 实验过程
 在子系统Ubuntu中跟随讲义，完成讲义中learngit每一步的操作，做完提交到github上，并用Markdown或html编写实验报告，作为一篇帖子发布在你的网站上。
 ## 四.总结 
-通过本次实验，学会了github的基本操作。
+通过本次实验，学会了git的基本操作。可以把一些操作命令简化，更快，更方便的使用git。
